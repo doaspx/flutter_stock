@@ -1,0 +1,62 @@
+name: app_stock
+description: TL50 app stock.
+
+version: 1.0.0+1
+
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  flutter_localizations:
+    sdk: flutter    
+
+  json_annotation:
+  cupertino_icons: ^0.1.2
+  dio: ^3.0.1
+  
+  flutter_screenutil: ^1.0.2
+  provider: ^4.0.4
+  fluttertoast: ^3.1.3
+  oktoast: ^2.1.7
+  shared_preferences: ^0.5.3+5
+  pull_to_refresh: ^1.5.8
+  common_utils: ^1.1.3
+  sqflite: ^1.1.5
+  ffloat: ^1.0.1
+
+  path_provider: ^1.6.5 #安装路径
+  device_info: ^0.4.0
+  package_info: ^0.4.0
+  open_file: ^2.0.3 #安装文件,下载新版本
+
+  socket_io_client: ^0.9.10
+
+  flutter_swiper: ^1.1.6 #广告轮播
+  sticky_headers: ^0.1.8+1 # 联动吸顶
+  # table_sticky_headers: ^1.1.2 #Table
+
+dev_dependencies:
+  build_runner:
+  json_serializable:
+  flutter_test:
+    sdk: flutter
+  
+flutter:
+  assets:
+    - assets/images/
+    - assets/resources/
+
+  fonts:
+    - family: stockChartIcon
+      fonts:
+        - asset: assets/fonts/iconfont.ttf
+    
+  uses-material-design: true
+  # module:
+  #   androidX: true
+  #   androidPackage: com.tl50.stockLib
+  #   iosBundleIdentifier: com.tl50.stockLib
