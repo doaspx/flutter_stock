@@ -8,7 +8,9 @@
 This project is just for tutorial purpose, <b>NO BUSINESS USING IS ALLOWED.</b><br/>
 本项目只作教材使用，<b>不允许有任何商业用途</b>
 
-代码中有掩饰视频
+代码中有演示视频
+
+有问题可以咨询QQ：326878563
 
 # 整体展示效果
 
