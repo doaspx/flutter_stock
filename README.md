@@ -14,31 +14,30 @@ This project is just for tutorial purpose, <b>NO BUSINESS USING IS ALLOWED.</b><
 
 # 整体展示效果
 
-
-![image](https://github.com/doaspx/flutter_stock/blob/master/assets/5.png)
-
-
-![image](https://github.com/doaspx/flutter_stock/blob/master/assets/6.png)
+![5.png](https://i.loli.net/2020/09/09/7H4xtrTz9L8mS3l.png)
 
 
-![image](https://github.com/doaspx/flutter_stock/blob/master/assets/7.png)
+![6.png](https://i.loli.net/2020/09/09/4OWtAkJGBNK673q.jpg)
 
 
-![image](https://github.com/doaspx/flutter_stock/blob/master/assets/8.png)
+![7.png](https://i.loli.net/2020/09/09/7iEZMzTyXC45pm9.jpg)
 
+
+![8.png](https://i.loli.net/2020/09/09/UVGn2L5JTZx1BEH.jpg)
 
 
 
-![image](https://github.com/doaspx/flutter_stock/blob/master/assets/1.png)
+
+![1.png](https://i.loli.net/2020/09/09/KBM5uYVUiJglhfs.png)
 
 
-![image](https://github.com/doaspx/flutter_stock/blob/master/assets/2.png)
+![2.png](https://i.loli.net/2020/09/09/yOo85YUpKX2BtfE.png)
 
 
-![image](https://github.com/doaspx/flutter_stock/blob/master/assets/3.png)
+![3.png](https://i.loli.net/2020/09/09/GS1boQ8TqeJzpLF.png)
 
 
-![image](https://github.com/doaspx/flutter_stock/blob/master/assets/4.png)
+![4.png](https://i.loli.net/2020/09/09/8fqtxoMJKr1yGpl.png)
 
 
 
