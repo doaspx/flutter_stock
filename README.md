@@ -14,7 +14,7 @@ This project is just for tutorial purpose, <b>NO BUSINESS USING IS ALLOWED.</b><
 
 # 整体展示效果
 
-![5.png](https://github.com/doaspx/flutter_stock/blob/master/assets/5.png)
+![5.png](https://github.com/doaspx/flutter_stock/blob/master/assets/5.png){:height="50%" width="50%"}
 
 
 ![6.png](https://github.com/doaspx/flutter_stock/blob/master/assets/6.png)
