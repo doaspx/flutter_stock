@@ -14,38 +14,23 @@ This project is just for tutorial purpose, <b>NO BUSINESS USING IS ALLOWED.</b><
 
 # 整体展示效果
 
-![5.png](https://github.com/doaspx/flutter_stock/blob/master/assets/5.png =100x20)
+<img src="https://github.com/doaspx/flutter_stock/blob/master/assets/5.png"   width="200" height="300" align="bottom" />
 
+<img src="https://github.com/doaspx/flutter_stock/blob/master/assets/6.png"   width="200" height="300" align="bottom" />
 
-![6.png](https://github.com/doaspx/flutter_stock/blob/master/assets/6.png)
+<img src="https://github.com/doaspx/flutter_stock/blob/master/assets/7.png"   width="200" height="300" align="bottom" />
 
+<img src="https://github.com/doaspx/flutter_stock/blob/master/assets/8.png"   width="200" height="300" align="bottom" />
 
-![7.png](https://github.com/doaspx/flutter_stock/blob/master/assets/7.png)
+<img src="https://github.com/doaspx/flutter_stock/blob/master/assets/1.png"   width="200" height="300" align="bottom" />
 
+<img src="https://github.com/doaspx/flutter_stock/blob/master/assets/2.png"   width="200" height="300" align="bottom" />
 
-![8.png](https://github.com/doaspx/flutter_stock/blob/master/assets/8.png)
+<img src="https://i.loli.net/2020/09/09/GS1boQ8TqeJzpLF.png"   width="200" height="300" align="bottom" />
 
+<img src="https://i.loli.net/2020/09/09/8fqtxoMJKr1yGpl.png"   width="200" height="300" align="bottom" />
 
+<img src="https://i.loli.net/2020/09/09/GS1boQ8TqeJzpLF.png"   width="200" height="300" align="bottom" />
 
-
-![1.png](https://github.com/doaspx/flutter_stock/blob/master/assets/1.png)
-
-
-![2.png](https://github.com/doaspx/flutter_stock/blob/master/assets/2.png)
-
-
-![3.png](https://i.loli.net/2020/09/09/GS1boQ8TqeJzpLF.png)
-
-
-![4.png](https://i.loli.net/2020/09/09/8fqtxoMJKr1yGpl.png)
-
-
-
-![image](https://github.com/doaspx/flutter_stock/blob/master/assets/1599294938092029.mp4)
-
-
-![image](https://github.com/doaspx/flutter_stock/blob/master/assets/1599295463722674.mp4)
-
-
-![image](https://github.com/doaspx/flutter_stock/blob/master/assets/1599295780939137.mp4)
+ 
 continously updating (持续更新中...)
