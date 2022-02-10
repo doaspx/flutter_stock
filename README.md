@@ -14,23 +14,23 @@ This project is just for tutorial purpose, <b>NO BUSINESS USING IS ALLOWED.</b><
 
 # 整体展示效果
 
-<img src="https://github.com/doaspx/flutter_stock/blob/master/assets/5.png"   width="200" height="300" align="bottom" />
+<img src="https://github.com/doaspx/flutter_stock/blob/master/assets/5.png"   width="300" height="400" align="bottom" />
 
-<img src="https://github.com/doaspx/flutter_stock/blob/master/assets/6.png"   width="200" height="300" align="bottom" />
+<img src="https://github.com/doaspx/flutter_stock/blob/master/assets/6.png"   width="300" height="400" align="bottom" />
 
-<img src="https://github.com/doaspx/flutter_stock/blob/master/assets/7.png"   width="200" height="300" align="bottom" />
+<img src="https://github.com/doaspx/flutter_stock/blob/master/assets/7.png"   width="300" height="400" align="bottom" />
 
-<img src="https://github.com/doaspx/flutter_stock/blob/master/assets/8.png"   width="200" height="300" align="bottom" />
+<img src="https://github.com/doaspx/flutter_stock/blob/master/assets/8.png"   width="300" height="400" align="bottom" />
 
-<img src="https://github.com/doaspx/flutter_stock/blob/master/assets/1.png"   width="200" height="300" align="bottom" />
+<img src="https://github.com/doaspx/flutter_stock/blob/master/assets/1.png"   width="300" height="400" align="bottom" />
 
-<img src="https://github.com/doaspx/flutter_stock/blob/master/assets/2.png"   width="200" height="300" align="bottom" />
+<img src="https://github.com/doaspx/flutter_stock/blob/master/assets/2.png"   width="300" height="400" align="bottom" />
 
-<img src="https://i.loli.net/2020/09/09/GS1boQ8TqeJzpLF.png"   width="200" height="300" align="bottom" />
+<img src="https://i.loli.net/2020/09/09/GS1boQ8TqeJzpLF.png"   width="300" height="400" align="bottom" />
 
-<img src="https://i.loli.net/2020/09/09/8fqtxoMJKr1yGpl.png"   width="200" height="300" align="bottom" />
+<img src="https://i.loli.net/2020/09/09/8fqtxoMJKr1yGpl.png"   width="300" height="400" align="bottom" />
 
-<img src="https://i.loli.net/2020/09/09/GS1boQ8TqeJzpLF.png"   width="200" height="300" align="bottom" />
+<img src="https://i.loli.net/2020/09/09/GS1boQ8TqeJzpLF.png"   width="300" height="400" align="bottom" />
 
  
 continously updating (持续更新中...)
