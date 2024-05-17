@@ -10,7 +10,9 @@ This project is just for tutorial purpose, <b>NO BUSINESS USING IS ALLOWED.</b><
 
 代码中有演示视频
 
-有问题可以咨询QQ：326878563
+有问题可以咨询
+QQ：326878563
+wx：doaspx
 
 # 整体展示效果
 
